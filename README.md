@@ -1,5 +1,33 @@
 # devHunter
 
+## Inicio del proyecto
+
+Haz una copia del repositorio:
+
+git@github.com:**tu usuario**/devHunter.git
+
+Instala las dependencias necesarias:
+
+```bash
+npm install
+# o
+yarn install
+```
+
+Configura las variables del entorno:
+
+DB_HOST=  
+DB_USER=  
+DB_PASSWORD=  
+DB_NAME=
+
+Inicializa el proyecto:
+
+```bash
+npm start
+# o
+yarn start
+```
 
 
 
